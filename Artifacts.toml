@@ -1,0 +1,459 @@
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "11a72d54768307c17fa477f038f4f5563b05ed67"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[mrfDepth.download]]
+    sha256 = "8040a3bdc3774ff6b4a19cb0034768b919cec15295f1fccf3de5bd9712c79e8f"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "2c6c4319f141b214840a7bd8050af73c3446ff48"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "e898bcbe6866fb19fff4e13f35876ed19ba77d38c9c702571f391f7cf1a22aa4"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "b736bfea2e19323b503c8ac0cf276b74c50f830a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "aeb98f152c64e9181a1e64b0eba072f0c8df7f474eb0138ebde45ae112057c7f"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "7ce49caefd28edffa139d486bd5c1653ee3eef93"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "b8a34f3ccf69c63252808c4f4da3d79c40245a2cbfce2c6ec60fd4af5a05939b"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "8e94fb9883189672f07c29cfbc108c4e73f65572"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "50cc2b8eaf5238e077d795ead9a8fb2dcc3c72808504147dec7965a81e2f3534"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-musl-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "82816373e1dc7ee0047e10556b47ad18f6d0a8ea"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "58b505b115e8dce9059de213ed99d7b7eb70776a11ef41eafe6bd70263863ab3"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-musl-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "aarch64"
+git-tree-sha1 = "1d06d91515579c6f7a970227fb808a80c7cf02d8"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "c0ee1bf38ccfa5f036f74e13c2713ba5cfa52e3297736bc6f27de66d6a0292cc"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.aarch64-linux-musl-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "eef54ecbfdb1bdd9f1e0641901d5a5f5b3c8e725"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "5b5c9690ba5f44d0f0efa3e438320dcd730ad61819ac2bb973f3ef2a3b9dff73"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "41ab57c02afa035ec641257eeba7fb01c8982bd8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "38a3b4b34fcad6c06939a627fae260055676ffdf3108964dd1e9b03a9e958455"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f059fdf9440821ad16efb5f044bbd3686a15f7c5"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "325d550a111e0163f945a2fe254457ad18d964a9976bae663fc55c43c03190f0"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "db1215a74f69008d5c8f017de27af87f002dfe83"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "93b95dcfdad0c627195702bfb6606ff5047a61ae4fad6e13325dd695bd9e48ca"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6ea797d647baac99a94b53e8af29abeb4515cacc"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "6684e865810bec34e5966011d0ab1820e891d9c7b97d2ba4feda8a45ee61ef56"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "17d887f2468ece4cfce1fbe464bd380365b9ef76"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "f929cdf46c3c91fe9e75e4c49668d678567d73fd50dd3283bf7bcff002fcec1d"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bad83408c3339351034fd69c5110761129f59dbc"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "b1ab25e94c14fd11df55fd65b864074e50bd158f3401ff451aac6733d3c7e28c"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4a156ab1f71cf7f80ed07ce4fc1b7e11ae36fe5a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "f16f7673851e4e0a0c16e94ccba86855d39cdc2e2ce46af816ca027afb141800"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c74faa7ea9a6a316b43b03172b1c527d6cfe0605"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "1f54e849219a41805ab50d28b77e175e41da6dc51c4f7f24805f7553568c86fd"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a9fa773467cf28f5265d6dbbc31dccad766cc2d8"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "4253c460dd96a89ea4f9d8e4fa694ae9e9a497d316dc386754ed839c573ae0b0"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "15032cedeabe32b59a34906647445c6cbe67147a"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "577c8c6a7cca284cd0c3003045bbe3585999911563dea8586bb31920944bbbbb"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "28fb45da6f89be5ec8f59feef12103f083d61219"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "98e6583bc96a00b6ba677084ec0d0cc0b58efd7a76cb7c0285f017f53336cb6c"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "3bdca7ffea5e5a462b51a7ea8478c8311d1025dd"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "dd2a336a359ad54490bffece3c45a3718994403597910b5e8b91811ab9473d6b"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-gnu-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "e83103698681e5f5169df582d7b174cf8aea11c5"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "e2e4d0148a67824059a2398afd14ea3e83aac77f5cbbdf224e4a56d5b3db6b1c"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-gnu-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "ae9fd61fd4aa88f1465a58d128e59d4066d62a93"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "64dadd314f7513f4b6757cfb47c8e92582454e51bae95dfe2d605ee0c801a4cb"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-gnu-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "ef21d864aaef8d22d2f1160de09c6d94814253de"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "d992c9a702327fb7cdd7a85cea052f2560c34187fdc324d6260914d658c3f24c"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-musl-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "72e65d21dec5badf6a3b84874a6bec3bf52ac8c2"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "5dbede6518b9f66824b453920145a837d005bdce355638184c911ac965b13f54"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-musl-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "04d3c36b1533b1c5f5f2f5cd931fc07723cc3f3c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "8e3feab6fa42d53fe49080c52516cb43ab2ebba221af106bc894bd1caa2c93c7"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-linux-musl-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "dcd2172fd1b337ae4b8dbbade846f046a09f1e18"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "08f825e35758b8d63714065e5e9033e05d1269cbb499beab4b4a0d0022ebc6d6"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-w64-mingw32-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "e6d05cd82201ea5ac14a68738535468c48e6ece0"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "8bb55b11aac331bc3b1886d12e4cf039b855cfd9055d60b6429799feecc110ed"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-w64-mingw32-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "i686"
+git-tree-sha1 = "28573d79c4ead835aa5e8aca20159d25c029ba8f"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "264a2673f289cc03e310bf8856880623c8efb75d988a533c438dcdb9bf0365ba"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.i686-w64-mingw32-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "powerpc64le"
+git-tree-sha1 = "e85d3980b85948815678eb2fab82cc7a0cde25f4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "6df3031fecec2e07e247236dc554a64f51c50ccf43934fe58d287459a5a3437b"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "powerpc64le"
+git-tree-sha1 = "ec22ace9a24250422773b17ae5a8afa5fb1b7fce"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "e44f282803c4c42aa3e10af089bae93169174173160b173ac88e5074d83c4287"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "powerpc64le"
+git-tree-sha1 = "f7ffcb2c9e78a3384ed65ff50b3c25ab45650eea"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "41c0e502e92498a6932f9c6d584e437c975fff927664223745596a23d633a986"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "4bccb2c932f7da688980fac3358b850116169e7f"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[mrfDepth.download]]
+    sha256 = "39ff892d8cef2fd0e94c5cfafc5f5b12a4e36e79ac43525a5b6a17adbc72056c"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "e629af5e5d9e8aa8218971b5a83d1c08c3c2dffa"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[mrfDepth.download]]
+    sha256 = "67d7cf5f8c3800a86c41c610ecf7e978f8a8803eeefd7b56439744ac33520e34"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "a83e3f05ace5d3191849049156234b39859d2cd6"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[mrfDepth.download]]
+    sha256 = "41113fb129c37a929239d46dc0b598ca233e772453c2b0364542d6e0ed708d66"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "628daaee642ef79846706c29b38e738fd1408bb5"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "6211e3399e98a7dd073b32148c30b652e32e2c4c333d7ffd93d4f2f568d70dfa"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "6a2e5eec9b74eb942cb91ceb39e40ef0ca87a394"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "2de15173ebc54a6fbfbc8767ef1e663af53e5b2600aaa9b497b1da384a6659c0"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "3b8ab465a2cb3897d901aa3dd51702fbc1f61cd6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "8fb5536a76bcd662aeea1d098a3c2b9da256a24a1d22a9e58c33dbe27476409f"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "a8559ab194ff86fe1489b062fc79d2213daca7b8"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "e6da89355499da068e4659164329f0be382452d27bc40beda3a6906b9085a517"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-musl-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "ad37315670b584580431d69844135a1ef4d504c6"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "7b44e4e67b389d15aec6581c2205add278d0795c74df656a261aab59e5213bca"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-musl-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "4857908922b563a86970f1278adabe34045ebfef"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[mrfDepth.download]]
+    sha256 = "1e520105b5d3226a6159f5aaa353c045d64fa2c77750a627d6405df1ac986ace"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-linux-musl-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "dc4c27b6d4d0f7407322466c6f5ec2b8eec16581"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[mrfDepth.download]]
+    sha256 = "bccd891e6e4debfe5dcdd4845da4a896dde12aa4203798cce6e622492d494a06"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "d6fd05c72e6483dbbf00dd32889260ad031aec71"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[mrfDepth.download]]
+    sha256 = "68bdf2e83da0f87213bc94ceb2e8010d01644aaa94bf9490fd98f4fe3838d9eb"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "0bb494d87ecd65c1e06014f55af8dfb7678c985b"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[mrfDepth.download]]
+    sha256 = "986dc3202f0a2f9665a75a6583680b5a2ef14f80c9261123110805d752ff3c9d"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "05029701e78a90c0a6b93485ba19e9d24104e1ee"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "a72e2156700ae8074e100fba145ff54bd81ab473505ef6f8d47a6a0a194e7ba6"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "88d028fb60ada3ed664e12e95b1c43a861b85fb1"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "d862e8b329c17d859fb9a5e09a5b1762b4696d8113c8fd23ec95593ff7c22c50"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[mrfDepth]]
+arch = "x86_64"
+git-tree-sha1 = "6d703fa2ee591c68f0f859ae8521811a1e042067"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[mrfDepth.download]]
+    sha256 = "b7e89a0449a20de144201bfd54bbc5c5dc60817304e95a7ff20daff058042b1d"
+    url = "https://github.com/JuliaBinaryWrappers/mrfDepth_jll.jl/releases/download/mrfDepth-v1.0.14+0/mrfDepth.v1.0.14.x86_64-w64-mingw32-libgfortran5.tar.gz"
